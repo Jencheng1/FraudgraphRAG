@@ -129,7 +129,44 @@ fraud_detection/
 
 ## License
 
-MIT License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### License Details
+
+The MIT License is a permissive license that is short and to the point. It lets people do anything they want with the code as long as they provide attribution back to you and don't hold you liable.
+
+#### What you can do with this code:
+- ✅ Use it commercially
+- ✅ Modify it
+- ✅ Distribute it
+- ✅ Use it privately
+- ✅ Sublicense it
+
+#### What you must do:
+- ✅ Include the original copyright notice
+- ✅ Include the license text
+
+#### What you cannot do:
+- ❌ Hold the authors liable
+- ❌ Use the authors' names/trademarks without permission
+
+### Third-Party Licenses
+
+This project uses several third-party libraries and tools. Their respective licenses are:
+
+- FastAPI: [MIT License](https://github.com/tiangolo/fastapi/blob/master/LICENSE)
+- Streamlit: [Apache 2.0 License](https://github.com/streamlit/streamlit/blob/develop/LICENSE)
+- PyTorch Geometric: [MIT License](https://github.com/pyg-team/pytorch_geometric/blob/master/LICENSE)
+- Neo4j Python Driver: [Apache 2.0 License](https://github.com/neo4j/neo4j-python-driver/blob/5.0/LICENSE)
+- Supabase: [MIT License](https://github.com/supabase/supabase-js/blob/master/LICENSE)
+- NetworkX: [BSD 3-Clause License](https://github.com/networkx/networkx/blob/main/LICENSE.txt)
+- Pandas: [BSD 3-Clause License](https://github.com/pandas-dev/pandas/blob/main/LICENSE)
+- NumPy: [BSD 3-Clause License](https://github.com/numpy/numpy/blob/main/LICENSE.txt)
+- Confluent Kafka: [Apache 2.0 License](https://github.com/confluentinc/confluent-kafka-python/blob/master/LICENSE)
+
+### Contributing
+
+When contributing to this project, please ensure that your contributions are also licensed under the MIT License. By contributing, you agree that your contributions will be licensed under the same terms as the project.
 
 ## Running the Kafka Components
 
